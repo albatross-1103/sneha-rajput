@@ -163,7 +163,7 @@ Python
 [sr0504526@gmail.com](mailto:sr0504526@gmail.com)
 
 💼 **LinkedIn**
-linkedin.com/in/sneha-rajput20
+[linkedin.com/in/sneha-rajput20](https://www.linkedin.com/in/sneha-rajput20/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Buzw%2FSPgyQ8W073ZA7bNAeA%3D%3D)
 
 ---
 

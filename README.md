@@ -97,8 +97,6 @@ Designed and deployed a cloud-hosted SSH Honeypot to attract and monitor real-wo
 
 Python • OpenCanary • Flask • AWS EC2 • Linux • JSON Logs
 
-👉 Repository:
-(Link)
 
 ---
 
@@ -110,9 +108,6 @@ Built an Intrusion Detection and Prevention System using custom Snort rules to d
 
 Snort • Linux
 
-👉 Repository:
-(Link)
-
 ---
 
 ## 🦠 Malware-Based Automation Trojan (Research Project)
@@ -123,8 +118,6 @@ Developed an educational malware simulation to demonstrate automated attack beha
 
 Python
 
-👉 Repository:
-(Link)
 
 ---
 
@@ -135,9 +128,6 @@ Educational simulation demonstrating how modern information-stealing malware per
 **Tech Stack**
 
 Python
-
-👉 Repository:
-(Link)
 
 ---
 
